@@ -19,7 +19,5 @@ u2 = params.Ixx*(450*(phic-state.rot(1))+105*(0-state.omega(1)));
 
 
 
-% FILL IN YOUR CODE HERE
-
 end
 
